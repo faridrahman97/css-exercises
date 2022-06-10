@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.one {
+    background-color: #ff000060;
+}
+
+.two {
+    font-size: 24px;
+}
+
+#two-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#four-id {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: #00ff0065
+}
